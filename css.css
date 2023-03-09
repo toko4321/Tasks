@@ -1,0 +1,47 @@
+h3.center {
+    margin-left: 575px;
+}
+div.container {
+    margin: auto;
+    height: 170px;
+    width: 510px;
+}
+h3.one {
+    margin: 40px;
+    margin-top: 70px;
+}
+div.container1 {
+    margin: 40px;
+    height: 170px;
+    width: 510px;
+}
+h3.two{
+    margin-left: 1100px;
+    margin-top: 50px;
+}
+div.container2 {
+    height: 170px;
+    width: 510px;
+    margin-left: 1100px;
+}
+hr{
+    margin-top: 60px;
+}
+h3.three{
+    margin: 40px;
+}
+div.container3 {
+    height: 65px;
+    width:  1550px;
+    margin: 40px;
+}
+div.container4 {
+    height: 75px;
+    width:  1550px;
+    margin: 40px;  
+}
+div.container5 {
+    height: 70px;
+    width:  1600px;
+    margin: 40px; 
+}

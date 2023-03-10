@@ -16,13 +16,13 @@ div.container1 {
     width: 510px;
 }
 h3.two{
-    margin-left: 1100px;
+    margin-left: 1000px;
     margin-top: 50px;
 }
 div.container2 {
     height: 170px;
     width: 510px;
-    margin-left: 1100px;
+    margin-left: 1000px;
 }
 hr{
     margin-top: 60px;
@@ -32,16 +32,16 @@ h3.three{
 }
 div.container3 {
     height: 65px;
-    width:  1550px;
+    width:  1500px;
     margin: 40px;
 }
 div.container4 {
     height: 75px;
-    width:  1550px;
+    width:  1500px;
     margin: 40px;  
 }
 div.container5 {
     height: 70px;
-    width:  1600px;
+    width:  1500px;
     margin: 40px; 
 }

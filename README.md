@@ -6,7 +6,7 @@
    <hr>
    <br>
    <body>
-      <a href="http://127.0.0.1:5500/Task9.html">Task9</a>
+      <a href="http://127.0.0.1:5500/Task9.html" target="_blank">Task9</a>
      
    </body>    
     
